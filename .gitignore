@@ -1,0 +1,14 @@
+
+wp-content/uploads/
+
+wp-config.php
+
+wp-content/cache/
+wp-content/upgrade/
+
+
+.idea/
+.vscode/
+
+
+.DS_Store
